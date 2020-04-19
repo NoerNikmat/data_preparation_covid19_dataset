@@ -1,6 +1,6 @@
 # Data preparation for Machine Learning Model
 
-  Novel Coronavirus COVID-19 Dataset
+##### Novel Coronavirus COVID-19 Dataset
     Original dataset, name, and data definitions/structures
     https://github.com/MohammadFebriyanto/Bangkit_Project/tree/master/DATA
 
@@ -33,8 +33,6 @@ Log transform did quantile capping of the income variable and also done logarith
 #### Modeling for optional.
 
 ## Result or Insight Data Preparation
-
-The comparison of the results of assignments ##6 regarding data preparation with assignment ##5 projects in groups is as follows:
 
 1. Based on this result, we conclude that older people are with an age range of 80 to 90 years more susceptible to coronavirus than younger people. And the number of Female patients is more than Male Patients. The graph is displayed more persuasively than before.
 2. The most reason why people get infected by a coronavirus is direct contact with another patient and visit Daegu. Output data results in numerical form.
