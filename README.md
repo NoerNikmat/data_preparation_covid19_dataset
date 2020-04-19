@@ -1,5 +1,6 @@
-# Data preparation covid19 dataset for Machine Learning Model
+# Data preparation for Machine Learning Model
 
+  Novel Coronavirus COVID-19 Dataset
   Original dataset, name, and data definitions/structures
   https://github.com/MohammadFebriyanto/Bangkit_Project/tree/master/DATA
 
