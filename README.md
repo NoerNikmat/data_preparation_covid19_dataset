@@ -1,8 +1,18 @@
 # Data preparation for Machine Learning Model
 
 ##### Novel Coronavirus COVID-19 Dataset
-    Original dataset, name, and data definitions/structures
-    https://github.com/MohammadFebriyanto/Bangkit_Project/tree/master/DATA
+
+Original dataset, name, and data definitions/structures
+    Source : https://github.com/MohammadFebriyanto/Bangkit_Project/tree/master/DATA
+
+###### File Dataset
+
+    patient.csv                 22 columns  (Main File)
+    time.csv                    24 columns  
+    route.csv                    7 columns
+    case.csv                     8 columns
+    trend.csv                    5 columns
+    TotalCaseConvir_INA.csv      2 columns  (dataset file for country: Indonesia)
 
 ## The steps to do data preparation are as follows
 
