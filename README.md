@@ -5,31 +5,31 @@
 
 ## The steps to do data preparation are as follows
 
-### Import Library
+#### Import Library
 - Pandas and Numpy used data analysis and manipulation tools and computation.
 - Matplotlib and Seaborn used to visualization data.
 - Math used to mathematical functions defined by the C standard.
 
-### Load the dataset
+#### Load the dataset
 used to read the data frame.
 
-### Find information and insights from the dataset.
+#### Find information and insights from the dataset.
 
-### Missing Value
+#### Missing Value
 Identify and handling missing values for data training and data test.
 
-### Create New Features
+#### Create New Features
 In COVID-19 data, date and range of age can be metrics for approving confirmed cases. New features often referred to as interaction terms.
 
-### Aggregating Numerical Variable
+#### Aggregating Numerical Variable
 In such a scenario, limiting the count of these labels can be a solution. In the data, the variable 'infection_reason' has several numerical (numerical_infection), which can be displayed.
 
-### Log Transform
+#### Log Transform
 Log transform did quantile capping of the income variable and also done logarithmic transformation to treat extreme values. That had represented with confirmed_date_transform.
 
-### Split the dataset into Training Set and Test Set (80/20) 
+#### Split the dataset into Training Set and Test Set (80/20) 
 
-### Modeling for optional.
+#### Modeling for optional.
 
 ## Result or Insight Data Preparation
 
