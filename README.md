@@ -48,3 +48,26 @@ Log transform did quantile capping of the income variable and also done logarith
 2. The most reason why people get infected by a coronavirus is direct contact with another patient and visit Daegu. Output data results in numerical form.
 3. Handling in missing value can provide optimized performance on the preparation data, especially on the target variable.
 4. The main difference from all of them is the use of Log Transform for positive skewness. That is when the tail on the right side of the distribution is longer. With the Log Transform method, the goal value is to reduce the slope.
+
+## Data Visualization
+
+**Handling Missing Values**
+
+![misval](data_prep/misval.png)
+---
+
+**Aggregate dates**
+
+![aggdate](data_prep/aggdate.png)
+---
+**Optimize data to be easily understood**
+
+![agerange](data_prep/agerange.png)
+---
+**Numerical number of confirmed based on infection reason**
+
+![num](data_prep/num.png)
+---
+**Handling Skewness**
+
+![skew](data_prep/skew.png)
